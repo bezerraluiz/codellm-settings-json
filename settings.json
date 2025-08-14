@@ -257,5 +257,7 @@
   },
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.multiCursorLimit": 50000,
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "a-file-icon-vscode",
+  "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+  "workbench.preferredLightColorTheme": "Monokai Charcoal Full Dark"
 }
