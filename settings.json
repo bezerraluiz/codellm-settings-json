@@ -247,7 +247,6 @@
         "textMateRules": []
     },
     "window.autoDetectColorScheme": true,
-    "workbench.preferredDarkColorTheme": "Monokai Charcoal Full Dark",
     "gitlens.advanced.messages": {
         "suppressIntegrationDisconnectedTooManyFailedRequestsWarning": true,
         "suppressIntegrationRequestTimedOutWarning": true
@@ -260,8 +259,19 @@
     "window.confirmSaveUntitledWorkspace": false,
     "chat.editing.confirmEditRequestRemoval": false,
     "redhat.telemetry.enabled": true,
-    "workbench.preferredLightColorTheme": "Black Italic",
+    "workbench.preferredLightColorTheme": "Min Dark",
     "workbench.iconTheme": "a-file-icon-vscode",
     "workbench.activityBar.location": "top",
-    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme"
+    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+    "chat.mcp.autostart": "newAndOutdated",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmPasteNative": false,
+    "github.copilot.advanced": {
+        "authPermissions": "minimal"
+    }
 }
