@@ -259,7 +259,6 @@
     "window.confirmSaveUntitledWorkspace": false,
     "chat.editing.confirmEditRequestRemoval": false,
     "redhat.telemetry.enabled": true,
-    "workbench.preferredLightColorTheme": "Min Dark",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.activityBar.location": "top",
     "chat.mcp.autostart": "newAndOutdated",
@@ -272,5 +271,6 @@
     "explorer.confirmPasteNative": false,
     "github.copilot.advanced": {
         "authPermissions": "minimal"
-    }
+    },
+    "workbench.preferredLightColorTheme": "Abacus Dark"
 }
