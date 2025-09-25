@@ -259,7 +259,7 @@
     "window.confirmSaveUntitledWorkspace": false,
     "chat.editing.confirmEditRequestRemoval": false,
     "redhat.telemetry.enabled": true,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "symbols",
     "workbench.activityBar.location": "top",
     "chat.mcp.autostart": "newAndOutdated",
     "[typescript]": {
@@ -272,5 +272,6 @@
     "github.copilot.advanced": {
         "authPermissions": "minimal"
     },
-    "workbench.preferredLightColorTheme": "Abacus Dark"
+    "workbench.preferredLightColorTheme": "Dracula Theme",
+    "workbench.productIconTheme": "fluent-icons"
 }
